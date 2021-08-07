@@ -1,7 +1,3 @@
----
-typora-root-url: ./
----
-
 # GitCoin-Nervos
 This the answer for nervos's project in GitCoin.
 
@@ -9,8 +5,8 @@ This the answer for nervos's project in GitCoin.
 
 CKB NODE:
 
-![](/README.assets/ckb-node-16283271415211.png)
+![](/Task-0/ckb-node.png)
 
 CKB INDEX:
 
-![](/README.assets/ckb-index.png)
+![](/Task-0/ckb-index.png)
